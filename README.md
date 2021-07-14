@@ -24,4 +24,6 @@ http://localhost:8080/h2
  
 - Documentação
 http://localhost:8080/swagger-ui.html
+
+- Tem uma coleção do postman na raiz do projeto como alternativa ao Swagger
  
